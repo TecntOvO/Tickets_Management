@@ -1,0 +1,3 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/Matlab R2023a/bin/win64/cmake/share/cmake-3.19/Modules/FortranCInterface"
+}
